@@ -158,6 +158,7 @@ hr {
 	font-size: 20px;
 	font-weight: 300;
 	line-height: 22px;
+	word-wrap: break-word;
 }
 
 .portfolio h3 {
@@ -202,4 +203,89 @@ hr {
 .mT0B20 {
 	margin-top: 0px;
 	margin-bottom: 20px;
+}
+
+#about {
+	padding-top: 70px;
+	background-color: #f73f3f;
+	height: 500px;
+	font-size: 20px;
+	font-weight: 100;
+	font-family: Raleway,sans-serif;
+	color: #fff
+}
+
+.colorWhite {
+	color: #fff;
+}
+
+.divisionLeft {
+	width: 45%;
+	float: left;
+	text-align: center;
+	padding: 15px 15px;
+}
+
+.divisionRight {
+	width: 45%;
+	float: right;
+	text-align: center;
+	padding: 15px 15px
+}
+
+#contact {
+	padding-bottom: 10px;
+	padding-top: 70px;
+	background-color: #ffa200;
+	height: 550px;
+	font-size: 20px;
+	font-weight: 100;
+	font-family: Raleway,sans-serif;
+	color: #fff;
+}
+
+.address {
+	width: 288px;
+	height: 288px;
+	float: left;
+	padding: 10px;
+    margin: 15px 10px 0px 165px;
+    background: url("../images/reveal-circle.png") center center no-repeat;
+    background-size: cover;
+}
+
+.address h4 {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+input, textarea, button {
+	padding: 8px;
+	margin: 10px;
+	font-size: 14px;
+	width: 60%;
+	line-height: normal;
+	vertical-align: baseline;
+	font-family: Raleway, sans-serif;
+	color: #2C3E50;
+	display: inline-block;
+}
+
+footer {
+	line-height: 1.4;
+	text-align: center;
+	color: #fff;
+	font-size: 14px;
+	font-family: Raleway, sans-serif;
+    background-color: #15c1e5;
+    padding: 25px 0px;
+}
+
+a {
+	color: white;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+	display: inline;
+	padding: 25px 0px;
 }
