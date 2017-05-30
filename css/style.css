@@ -4,7 +4,7 @@ body {
 
 header {
 	height: 70px;
-	background-color: #15c1e5;
+	background-color:#a442dc ;
 	position: fixed;
     top: 0;
     left: 0;
@@ -50,19 +50,19 @@ li a {
 }
 
 .bgGreen {
-	background-color: #9bba1f;
+	background-color: #000000;
 }
 
 .bgRed {
-	background-color: #f73f3f;
+	background-color: #2a6aff;
 }
 
 .bgYellow {
-	background-color: #ffa200;
+	background-color: #ff80ab;
 }
 
 .hero {
-	background: url("../images/computer-skills.jpg");
+	background: url("../images/bg1.jpg");
 	position: relative;
 	min-height: 450px;
 	height: 100vh;
@@ -126,7 +126,10 @@ li a {
 }
 
 .colorBlue {
-	color: #15c1e5;
+	color: #a442dc;
+}
+.fontWhite {
+	color: white;
 }
 
 hr {
@@ -207,7 +210,7 @@ hr {
 
 #about {
 	padding-top: 70px;
-	background-color: #f73f3f;
+	background-color: #2a6aff;
 	height: 500px;
 	font-size: 20px;
 	font-weight: 100;
@@ -236,7 +239,7 @@ hr {
 #contact {
 	padding-bottom: 10px;
 	padding-top: 70px;
-	background-color: #ffa200;
+	background-color: #ff80ab;
 	height: 550px;
 	font-size: 20px;
 	font-weight: 100;
